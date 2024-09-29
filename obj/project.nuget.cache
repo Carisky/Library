@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "myEfyPXuM4Utlrgoh8BmSnCNtvDaQtZQIOsIybsSgDMt9wE69mlIljXAu2Fom+8ONX6rnGXW7MRAD4tZrEA3VQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\egork\\Documents\\VSCodeRepos\\Library\\Library.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\egork\\.nuget\\packages\\faker.net\\2.0.163\\faker.net.2.0.163.nupkg.sha512",
+    "C:\\Users\\egork\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\egork\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
